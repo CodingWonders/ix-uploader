@@ -20,9 +20,10 @@ The uploader will then give you a link with the file's contents. You have some o
 - Add a context menu handler to easily upload your text files on the context menu
 
 ## How can I help?
-1. Create a pull request
-2. Open the solution in Visual Studio 2012 or later
-3. Work on your planned changes
+**RECOMMENDED**: create your branch or fork
+1. Open the solution in Visual Studio 2012 or later
+2. Work on your planned changes
+3. Create a pull request
 
 ## How do I begin?
 Download the latest release in the Releases section, and that's it! You don't have to install anything.
